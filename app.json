@@ -1,6 +1,6 @@
 
 {
-  "name": "Hasbulla Oyun Bot",
+  "name": "Karabakh Oyun Bot",
   "description": "kelime oyunu",
   "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/XTQ067/sozbotragnarok",
+  "repository": "https://github.com/ismetsovetski/Crocadiloyunbot",
   
   "addons": [
     {
